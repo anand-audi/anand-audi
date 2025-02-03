@@ -1,3 +1,5 @@
+<img src="banner-github.png" alt="Github Banner" width="100%" />
+
 <h1 align="left">Hello, I'm Anand, an Indian Software Developer👋!</h1>
 
 
